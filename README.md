@@ -1,4 +1,4 @@
-### Olá eu sou o Luiz Henrique, sou estudante de programação, atualmente estudo na @SoulCode no curso Java Full Stack 🎯!
+### Hi, I'm Luiz Henrique 🎯!
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueT1">
