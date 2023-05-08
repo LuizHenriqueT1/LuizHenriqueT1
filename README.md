@@ -1,6 +1,5 @@
 ### Hi, I'm Luiz Henrique 🎯!
 
-## Atualmente estudando Microsserviços, JUnit, Docker e Swagger
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueT1">
